@@ -1,0 +1,5 @@
+adapter: jdbcmysql
+host: localhost
+database: jruby_ar
+username: root
+password: 
